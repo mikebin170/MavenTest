@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.crab2died:Excel4J:2.1.4-Alpha">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/crab2died/Excel4J/2.1.4-Alpha/Excel4J-2.1.4-Alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/crab2died/Excel4J/2.1.4-Alpha/Excel4J-2.1.4-Alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/crab2died/Excel4J/2.1.4-Alpha/Excel4J-2.1.4-Alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
